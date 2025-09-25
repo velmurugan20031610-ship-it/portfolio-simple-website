@@ -1,12 +1,27 @@
-This is a simple personal portfolio website created using HTML and basic CSS.
-It contains two pages:
+🌟 My Portfolio Website
 
-Home Page – A brief introduction about me and my work.
+Welcome to my personal portfolio website! 🚀
+This project is built using HTML and  CSS to showcase a clean, simple, and user-friendly design.
 
-Contact Page – A section to get in touch with me.
+📌 What’s Inside
 
-Technologies Used
+Home Page – A quick introduction about me and what I do.
 
-HTML for structure
+Contact Page – An easy way to connect with me.
 
-CSS for styling
+🔍 Why View This?
+
+Minimal yet attractive design 🎨
+
+Easy navigation between pages 🔗
+
+A glimpse of my web development journey 💻
+
+🛠️ Built With
+
+HTML – Structure
+
+CSS – Styling
+
+HOW TO VIEW :
+You can acess my portfolio website by cliking the link:() feel free to explore the content and get in touch!
